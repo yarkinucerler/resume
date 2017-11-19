@@ -1,0 +1,66 @@
+/**
+ * Created by Yarkin UCERLER on 19.11.2017.
+ */
+
+header.header-wrapper {
+  top: 0;
+  width: 100%;
+  padding: 20px 0;
+  position: fixed;
+  background-color: $white;
+  border-bottom: 1px solid $border-default;
+}
+
+header.header-wrapper {
+  .header-desktop-container {
+    margin: 0 auto;
+  }
+
+  .header-desktop-container {
+    width: 1170px;
+    display: flex;
+  }
+
+  .header-desktop-container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .header-desktop-container {
+
+    .left-side {
+      width: calc(100% / 4);
+    }
+
+    .left-side {
+
+      .logo-wrapper {
+          width: 100%;
+        color: $default-link;
+      }
+
+      .logo-wrapper {
+
+        .logo {
+          color: inherit;
+          line-height: 1em;
+          font-size: 1.846em;
+          text-decoration: none;
+        }
+
+        .logo:after {
+          content: '_';
+          font-size: inherit;
+        }
+
+      }
+
+    }
+
+    .right-side {
+
+    }
+
+  }
+
+}
