@@ -13,4 +13,4 @@ function component() {
 
 document.body.appendChild(component());
 
-ReactDOM.render(<App/>, document.getElementById('app'));
+ReactDOM.render(<App />, document.getElementById('app'));

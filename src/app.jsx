@@ -5,10 +5,10 @@ import Footer from "./app/themes/footer.jsx";
 
 class App extends React.Component {
     render() {
-        return(
+        return (
             <div className={'wrapper'}>
-                <Header/>
-                <Footer/>
+                <Header />
+                <Footer />
             </div>
         );
     }
