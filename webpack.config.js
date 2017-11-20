@@ -23,11 +23,6 @@ var config = {
                 }
             },
             {
-                test: /\.js$/,
-                exclude: /node_modules/,
-                loaders: ['babel-loader', 'eslint-loader']
-            },
-            {
                 test: /\.scss$/,
                 exclude: /node_modules/,
                 loaders: [ 'style-loader', 'css-loader', 'sass-loader' ]

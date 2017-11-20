@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "1.0.0",
   "description": "This project is describe me. Everything about me in the project here.",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
