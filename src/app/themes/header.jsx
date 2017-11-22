@@ -2,13 +2,9 @@ import React from 'react';
 
 class Header extends React.Component {
 
-    scrollListener() {
-
-    }
-
     render() {
         return (
-            <header className='header-wrapper' onScroll={scrollListener(this)}>
+            <header className='header-wrapper'>
                 <div className='header-desktop-container'>
                     <div className='left-side'>
                         <div className='logo-wrapper'>
