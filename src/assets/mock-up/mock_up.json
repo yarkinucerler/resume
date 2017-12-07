@@ -1,0 +1,14 @@
+{
+    "menu": [
+        {"name": "Hello"},
+        {"name": "Skill"},
+        {"name": "Experience"},
+        {"name": "Education"},
+        {"name": "Contact Me"}
+    ],
+    "personelInfo": {
+        "firstName": "Yarkın",
+        "lastName": "ÜÇERLER",
+        "birthDate": "25.12.1987"
+    }
+}
